@@ -29,14 +29,16 @@ o IBM Cloud (mandotory).
 o IBM Watson studio for model development and deployment.
 o IBM Cloud object storage for dataset handiling.
 
-Result
+Result:-
+
 In this project, i successfully developed a Machine Learning-based Network Intrusion 
 Detection System (NIDS) capable of analyzing network traffic data to detect and classify 
 malicious activities. Using a labeled dataset containing various network features and class 
 labels (normal vs anomaly), the system learned to differentiate between legitimate traffic and 
 potential cyber-attacks.
 
-FUTURE SCOPE
+FUTURE SCOPE:-
+
 • Multi-Class Attack Classification
 Upgrade the system to not only detect anomalies but also classify them into specific attack 
 types like DoS, Probe, R2L, and U2R, improving threat identification and response.
